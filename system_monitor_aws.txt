@@ -1,517 +1,176 @@
-2023-04-30 11:35:18 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:19 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:20 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:21 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:22 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:23 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:24 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:25 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:26 | CPU: 2.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:27 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:49:08 | CPU: 0.0% | RAM: 68.3% | Disk IO: 
-46388 | Network Connections: 288
-2023-04-30 11:49:09 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 287
-2023-04-30 11:49:10 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:11 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 290
-2023-04-30 11:49:12 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 290
-2023-04-30 11:49:13 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 290
-2023-04-30 11:49:14 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 287
-2023-04-30 11:49:15 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 287
-2023-04-30 11:49:16 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 288
-2023-04-30 11:49:17 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 288
-2023-04-30 11:49:18 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 288
-2023-04-30 11:49:19 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:20 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 290
-2023-04-30 11:49:21 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:22 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:23 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:24 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 290
-2023-04-30 11:49:25 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 288
-2023-04-30 11:49:26 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:27 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:28 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:29 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:30 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 290
-2023-04-30 11:49:31 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 288
-2023-04-30 11:49:32 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:33 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 288
-2023-04-30 11:49:34 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:35 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 288
-2023-04-30 11:49:36 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 288
-2023-04-30 11:49:37 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:39 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 290
-2023-04-30 11:49:40 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:41 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46389 | Network Connections: 287
-2023-04-30 11:49:42 | CPU: 98.0% | RAM: 68.3% | Disk 
-IO: 46390 | Network Connections: 287
-2023-04-30 11:49:43 | CPU: 99.0% | RAM: 68.3% | Disk 
-IO: 46390 | Network Connections: 287
-2023-04-30 11:49:44 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46391 | Network Connections: 288
-2023-04-30 11:49:45 | CPU: 99.0% | RAM: 68.3% | Disk 
-IO: 46391 | Network Connections: 288
-2023-04-30 11:49:46 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46391 | Network Connections: 288
-2023-04-30 11:49:47 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46391 | Network Connections: 289
-2023-04-30 11:49:48 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46391 | Network Connections: 288
-2023-04-30 11:49:49 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46392 | Network Connections: 290
-2023-04-30 11:49:50 | CPU: 98.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 288
-2023-04-30 11:49:51 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 289
-2023-04-30 11:49:52 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 288
-2023-04-30 11:49:53 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 288
-2023-04-30 11:49:54 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 288
-2023-04-30 11:49:55 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 287
-2023-04-30 11:49:56 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 287
-2023-04-30 11:49:57 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 286
-2023-04-30 11:49:58 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 287
-2023-04-30 11:49:59 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 288
-2023-04-30 11:50:00 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 288
-2023-04-30 11:50:01 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 288
-2023-04-30 11:50:02 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 288
-2023-04-30 11:50:03 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 292
-2023-04-30 11:50:04 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 292
-2023-04-30 11:50:05 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 40
-2023-04-30 11:50:06 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 40
-2023-04-30 11:50:07 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 40
-(wagtailbakerydemo) ubuntu@ip-172-31-17-98:~$ nano 
-monitoring.py
-(wagtailbakerydemo) 
-ubuntu@ip(wagtailbaker(wagtailbakerydemo) 
-ubuntu@ip-172-31-17-98:~$ n
-ano monitoring.py
-(wagtailbakerydemo) ubuntu@ip-172-31-17-98:~$
-(wagtailbakerydemo) ubuntu@ip-172-31-17-98:~$
-(wagtailbakerydemo) ubuntu@ip-172-31-17-98:~$
-(wagtailbakerydemo) ubuntu@ip-172-31-17-98:~$ 
-python3.10 monitoring.py
-^CTraceback (most recent call last):
-  File "/home/ubuntu/monitoring.py", line 17, in 
-<module>
-    time.sleep(1)
-KeyboardInterrupt
-
-(wagtailbakerydemo) ubuntu@ip-172-31-17-98:~$
-(wagtailbakerydemo) ubuntu@ip-172-31-17-98:~$
-(wagtailbakerydemo) ubuntu@ip-172-31-17-98:~$ cd
-(wagtailbakerydemo) ubuntu@ip-172-31-17-98:~$ ls
-'VirtualBox VMs'   monitoring.py
- bakerydemo        system_monitor.txt
-(wagtailbakerydemo) ubuntu@ip-172-31-17-98:~$ nano 
-system_monitor.txt
-(wagtailbakerydemo) ubuntu@ip-172-31-17-98:~$ cat 
-system_monitor.txt
-2023-04-30 11:35:18 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:19 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:20 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:21 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:22 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:23 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:24 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:25 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:26 | CPU: 2.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:35:27 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46385 | Network Connections: 36
-2023-04-30 11:49:08 | CPU: 0.0% | RAM: 68.3% | Disk IO: 
-46388 | Network Connections: 288
-2023-04-30 11:49:09 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 287
-2023-04-30 11:49:10 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:11 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 290
-2023-04-30 11:49:12 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 290
-2023-04-30 11:49:13 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 290
-2023-04-30 11:49:14 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 287
-2023-04-30 11:49:15 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 287
-2023-04-30 11:49:16 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 288
-2023-04-30 11:49:17 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 288
-2023-04-30 11:49:18 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 288
-2023-04-30 11:49:19 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:20 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 290
-2023-04-30 11:49:21 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:22 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:23 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:24 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 290
-2023-04-30 11:49:25 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 288
-2023-04-30 11:49:26 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:27 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:28 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:29 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:30 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 290
-2023-04-30 11:49:31 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 288
-2023-04-30 11:49:32 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:33 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 288
-2023-04-30 11:49:34 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:35 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 288
-2023-04-30 11:49:36 | CPU: 100.0% | RAM: 68.4% | Disk 
-IO: 46388 | Network Connections: 288
-2023-04-30 11:49:37 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:39 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 290
-2023-04-30 11:49:40 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46388 | Network Connections: 289
-2023-04-30 11:49:41 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46389 | Network Connections: 287
-2023-04-30 11:49:42 | CPU: 98.0% | RAM: 68.3% | Disk 
-IO: 46390 | Network Connections: 287
-2023-04-30 11:49:43 | CPU: 99.0% | RAM: 68.3% | Disk 
-IO: 46390 | Network Connections: 287
-2023-04-30 11:49:44 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46391 | Network Connections: 288
-2023-04-30 11:49:45 | CPU: 99.0% | RAM: 68.3% | Disk 
-IO: 46391 | Network Connections: 288
-2023-04-30 11:49:46 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46391 | Network Connections: 288
-2023-04-30 11:49:47 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46391 | Network Connections: 289
-2023-04-30 11:49:48 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46391 | Network Connections: 288
-2023-04-30 11:49:49 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46392 | Network Connections: 290
-2023-04-30 11:49:50 | CPU: 98.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 288
-2023-04-30 11:49:51 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 289
-2023-04-30 11:49:52 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 288
-2023-04-30 11:49:53 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 288
-2023-04-30 11:49:54 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 288
-2023-04-30 11:49:55 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 287
-2023-04-30 11:49:56 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 287
-2023-04-30 11:49:57 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 286
-2023-04-30 11:49:58 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 287
-2023-04-30 11:49:59 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 288
-2023-04-30 11:50:00 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 288
-2023-04-30 11:50:01 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 288
-2023-04-30 11:50:02 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 288
-2023-04-30 11:50:03 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 292
-2023-04-30 11:50:04 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 292
-2023-04-30 11:50:05 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 40
-2023-04-30 11:50:06 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 40
-2023-04-30 11:50:07 | CPU: 100.0% | RAM: 68.3% | Disk 
-IO: 46398 | Network Connections: 40
-2023-04-30 12:02:15 | CPU: 0.0% | RAM: 68.3% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:16 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:17 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:18 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:19 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:20 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:21 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:22 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:23 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:24 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:25 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:26 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:27 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:28 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:29 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:30 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:31 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:32 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:33 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:34 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:35 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:36 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:37 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:38 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:39 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:40 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:41 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:42 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:43 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:44 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:45 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:46 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:47 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:48 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:49 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:50 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:51 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:52 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:53 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:54 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:55 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:56 | CPU: 2.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:57 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:58 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:02:59 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 35
-2023-04-30 12:03:00 | CPU: 9.1% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 41
-2023-04-30 12:03:01 | CPU: 1.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 41
-2023-04-30 12:03:02 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 41
-2023-04-30 12:03:03 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 41
-2023-04-30 12:03:04 | CPU: 0.0% | RAM: 68.2% | Disk IO: 
-46407 | Network Connections: 41
-2023-04-30 12:03:05 | CPU: 33.3% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 180
-2023-04-30 12:03:06 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 295
-2023-04-30 12:03:07 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 295
-2023-04-30 12:03:08 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:09 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 293
-2023-04-30 12:03:10 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:11 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:12 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:13 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:14 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:15 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 293
-2023-04-30 12:03:16 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 293
-2023-04-30 12:03:17 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 293
-2023-04-30 12:03:18 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:19 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 293
-2023-04-30 12:03:20 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:21 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:22 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 294
-2023-04-30 12:03:23 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 293
-2023-04-30 12:03:24 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 294
-2023-04-30 12:03:25 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 295
-2023-04-30 12:03:26 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 293
-2023-04-30 12:03:27 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:28 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 293
-2023-04-30 12:03:29 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 293
-2023-04-30 12:03:30 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:31 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:32 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:33 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:34 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:35 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:36 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:37 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 293
-2023-04-30 12:03:38 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 293
-2023-04-30 12:03:39 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:40 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:41 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:42 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 293
-2023-04-30 12:03:43 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 293
-2023-04-30 12:03:44 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:45 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 294
-2023-04-30 12:03:46 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 294
-2023-04-30 12:03:47 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 294
-2023-04-30 12:03:48 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 294
-2023-04-30 12:03:49 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 294
-2023-04-30 12:03:50 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 293
-2023-04-30 12:03:51 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 294
-2023-04-30 12:03:52 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 293
-2023-04-30 12:03:53 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 293
-2023-04-30 12:03:54 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 293
-2023-04-30 12:03:55 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:56 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:57 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 292
-2023-04-30 12:03:58 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 100
-2023-04-30 12:03:59 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 37
-2023-04-30 12:04:00 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 36
-2023-04-30 12:04:01 | CPU: 100.0% | RAM: 68.2% | Disk 
-IO: 46407 | Network Connections: 36
+2023-04-30 11:35:18 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46385 | Network Connections: 36
+2023-04-30 11:35:19 | CPU: 1.0% | RAM: 68.2% | Disk IO: 46385 | Network Connections: 36
+2023-04-30 11:35:20 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46385 | Network Connections: 36
+2023-04-30 11:35:21 | CPU: 1.0% | RAM: 68.2% | Disk IO: 46385 | Network Connections: 36
+2023-04-30 11:35:22 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46385 | Network Connections: 36
+2023-04-30 11:35:23 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46385 | Network Connections: 36
+2023-04-30 11:35:24 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46385 | Network Connections: 36
+2023-04-30 11:35:25 | CPU: 1.0% | RAM: 68.2% | Disk IO: 46385 | Network Connections: 36
+2023-04-30 11:35:26 | CPU: 2.0% | RAM: 68.2% | Disk IO: 46385 | Network Connections: 36
+2023-04-30 11:35:27 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46385 | Network Connections: 36
+2023-04-30 11:49:08 | CPU: 0.0% | RAM: 68.3% | Disk IO: 46388 | Network Connections: 288
+2023-04-30 11:49:09 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46388 | Network Connections: 287
+2023-04-30 11:49:10 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46388 | Network Connections: 289
+2023-04-30 11:49:11 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46388 | Network Connections: 290
+2023-04-30 11:49:12 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46388 | Network Connections: 290
+2023-04-30 11:49:13 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46388 | Network Connections: 290
+2023-04-30 11:49:14 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46388 | Network Connections: 287
+2023-04-30 11:49:15 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46388 | Network Connections: 287
+2023-04-30 11:49:16 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46388 | Network Connections: 288
+2023-04-30 11:49:17 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 288
+2023-04-30 11:49:18 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 288
+2023-04-30 11:49:19 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 289
+2023-04-30 11:49:20 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 290
+2023-04-30 11:49:21 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 289
+2023-04-30 11:49:22 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 289
+2023-04-30 11:49:23 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 289
+2023-04-30 11:49:24 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 290
+2023-04-30 11:49:25 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 288
+2023-04-30 11:49:26 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 289
+2023-04-30 11:49:27 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 289
+2023-04-30 11:49:28 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 289
+2023-04-30 11:49:29 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 289
+2023-04-30 11:49:30 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 290
+2023-04-30 11:49:31 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 288
+2023-04-30 11:49:32 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 289
+2023-04-30 11:49:33 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 288
+2023-04-30 11:49:34 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 289
+2023-04-30 11:49:35 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 288
+2023-04-30 11:49:36 | CPU: 100.0% | RAM: 68.4% | Disk IO: 46388 | Network Connections: 288
+2023-04-30 11:49:37 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46388 | Network Connections: 289
+2023-04-30 11:49:39 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46388 | Network Connections: 290
+2023-04-30 11:49:40 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46388 | Network Connections: 289
+2023-04-30 11:49:41 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46389 | Network Connections: 287
+2023-04-30 11:49:42 | CPU: 98.0% | RAM: 68.3% | Disk IO: 46390 | Network Connections: 287
+2023-04-30 11:49:43 | CPU: 99.0% | RAM: 68.3% | Disk IO: 46390 | Network Connections: 287
+2023-04-30 11:49:44 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46391 | Network Connections: 288
+2023-04-30 11:49:45 | CPU: 99.0% | RAM: 68.3% | Disk IO: 46391 | Network Connections: 288
+2023-04-30 11:49:46 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46391 | Network Connections: 288
+2023-04-30 11:49:47 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46391 | Network Connections: 289
+2023-04-30 11:49:48 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46391 | Network Connections: 288
+2023-04-30 11:49:49 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46392 | Network Connections: 290
+2023-04-30 11:49:50 | CPU: 98.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 288
+2023-04-30 11:49:51 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 289
+2023-04-30 11:49:52 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 288
+2023-04-30 11:49:53 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 288
+2023-04-30 11:49:54 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 288
+2023-04-30 11:49:55 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 287
+2023-04-30 11:49:56 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 287
+2023-04-30 11:49:57 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 286
+2023-04-30 11:49:58 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 287
+2023-04-30 11:49:59 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 288
+2023-04-30 11:50:00 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 288
+2023-04-30 11:50:01 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 288
+2023-04-30 11:50:02 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 288
+2023-04-30 11:50:03 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 292
+2023-04-30 11:50:04 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 292
+2023-04-30 11:50:05 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 40
+2023-04-30 11:50:06 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 40
+2023-04-30 11:50:07 | CPU: 100.0% | RAM: 68.3% | Disk IO: 46398 | Network Connections: 40
+2023-04-30 12:02:15 | CPU: 0.0% | RAM: 68.3% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:16 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:17 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:18 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:19 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:20 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:21 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:22 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:23 | CPU: 1.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:24 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:25 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:26 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:27 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:28 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:29 | CPU: 1.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:30 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:31 | CPU: 1.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:32 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:33 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:34 | CPU: 1.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:35 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:36 | CPU: 1.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:37 | CPU: 1.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:38 | CPU: 1.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:39 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:40 | CPU: 1.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:41 | CPU: 1.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:42 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:43 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:44 | CPU: 1.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:45 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:46 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:47 | CPU: 1.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:48 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:49 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:50 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:51 | CPU: 1.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:52 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:53 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:54 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:55 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:56 | CPU: 2.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:57 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:58 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:02:59 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 35
+2023-04-30 12:03:00 | CPU: 9.1% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 41
+2023-04-30 12:03:01 | CPU: 1.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 41
+2023-04-30 12:03:02 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 41
+2023-04-30 12:03:03 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 41
+2023-04-30 12:03:04 | CPU: 0.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 41
+2023-04-30 12:03:05 | CPU: 33.3% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 180
+2023-04-30 12:03:06 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 295
+2023-04-30 12:03:07 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 295
+2023-04-30 12:03:08 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:09 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 293
+2023-04-30 12:03:10 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:11 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:12 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:13 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:14 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:15 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 293
+2023-04-30 12:03:16 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 293
+2023-04-30 12:03:17 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 293
+2023-04-30 12:03:18 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:19 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 293
+2023-04-30 12:03:20 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:21 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:22 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 294
+2023-04-30 12:03:23 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 293
+2023-04-30 12:03:24 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 294
+2023-04-30 12:03:25 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 295
+2023-04-30 12:03:26 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 293
+2023-04-30 12:03:27 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:28 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 293
+2023-04-30 12:03:29 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 293
+2023-04-30 12:03:30 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:31 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:32 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:33 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:34 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:35 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:36 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:37 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 293
+2023-04-30 12:03:38 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 293
+2023-04-30 12:03:39 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:40 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:41 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:42 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 293
+2023-04-30 12:03:43 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 293
+2023-04-30 12:03:44 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:45 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 294
+2023-04-30 12:03:46 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 294
+2023-04-30 12:03:47 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 294
+2023-04-30 12:03:48 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 294
+2023-04-30 12:03:49 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 294
+2023-04-30 12:03:50 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 293
+2023-04-30 12:03:51 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 294
+2023-04-30 12:03:52 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 293
+2023-04-30 12:03:53 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 293
+2023-04-30 12:03:54 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 293
+2023-04-30 12:03:55 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:56 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:57 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 292
+2023-04-30 12:03:58 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 100
+2023-04-30 12:03:59 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 37
+2023-04-30 12:04:00 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 36
+2023-04-30 12:04:01 | CPU: 100.0% | RAM: 68.2% | Disk IO: 46407 | Network Connections: 36
