@@ -1,442 +1,145 @@
-2023-04-30 12:16:04 | CPU: 0.0% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:05 | CPU: 0.0% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:06 | CPU: 0.2% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:07 | CPU: 0.2% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:08 | CPU: 0.0% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:09 | CPU: 0.2% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:10 | CPU: 0.2% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:11 | CPU: 0.0% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:12 | CPU: 0.0% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:13 | CPU: 0.5% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:14 | CPU: 0.0% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:15 | CPU: 0.2% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:16 | CPU: 0.0% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:17 | CPU: 0.2% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:18 | CPU: 0.2% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:19 | CPU: 0.2% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:20 | CPU: 0.2% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:21 | CPU: 0.0% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:22 | CPU: 0.2% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:23 | CPU: 0.2% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:24 | CPU: 0.0% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:25 | CPU: 0.2% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:26 | CPU: 0.2% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:27 | CPU: 0.0% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:28 | CPU: 0.5% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:29 | CPU: 0.2% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 7
-2023-04-30 12:16:30 | CPU: 35.0% | RAM: 8.5% | Disk IO: 21226 | Network Connections: 124
-2023-04-30 12:16:31 | CPU: 77.1% | RAM: 8.6% | Disk IO: 21226 | Network Connections: 261
-2023-04-30 12:16:32 | CPU: 76.4% | RAM: 8.6% | Disk IO: 21226 | Network Connections: 260
-2023-04-30 12:16:33 | CPU: 76.5% | RAM: 8.6% | Disk IO: 21226 | Network Connections: 256
-2023-04-30 12:16:34 | CPU: 76.6% | RAM: 8.6% | Disk IO: 21226 | Network Connections: 258
-2023-04-30 12:16:35 | CPU: 76.5% | RAM: 8.6% | Disk IO: 21226 | Network Connections: 257
-2023-04-30 12:16:36 | CPU: 76.7% | RAM: 8.6% | Disk IO: 21226 | Network Connections: 255
-2023-04-30 12:16:37 | CPU: 76.4% | RAM: 8.6% | Disk IO: 21226 | Network Connections: 258
-2023-04-30 12:16:38 | CPU: 76.8% | RAM: 8.6% | Disk IO: 21226 | Network Connections: 258
-2023-04-30 12:16:39 | CPU: 76.4% | RAM: 8.7% | Disk IO: 21226 | Network Connections: 256
-2023-04-30 12:16:40 | CPU: 76.8% | RAM: 8.7% | Disk IO: 21226 | Network Connections: 259
-2023-04-30 12:16:41 | CPU: 76.5% | RAM: 8.7% | Disk IO: 21226 | Network Connections: 254
-2023-04-30 12:16:42 | CPU: 76.5% | RAM: 8.7% | Disk IO: 21226 | Network Connections: 257
-2023-04-30 12:16:43 | CPU: 76.8% | RAM: 8.7% | Disk IO: 21226 | Network Connections: 256
-2023-04-30 12:16:44 | CPU: 76.5% | RAM: 8.7% | Disk IO: 21226 | Network Connections: 258
-2023-04-30 12:16:45 | CPU: 76.7% | RAM: 8.7% | Disk IO: 21226 | Network Connections: 260
-2023-04-30 12:16:46 | CPU: 76.8% | RAM: 8.7% | Disk IO: 21226 | Network Connections: 259
-2023-04-30 12:16:47 | CPU: 77.0% | RAM: 8.7% | Disk IO: 21226 | Network Connections: 257
-2023-04-30 12:16:48 | CPU: 76.7% | RAM: 8.7% | Disk IO: 21226 | Network Connections: 257
-2023-04-30 12:16:49 | CPU: 76.7% | RAM: 8.7% | Disk IO: 21226 | Network Connections: 261
-2023-04-30 12:16:50 | CPU: 76.7% | RAM: 8.7% | Disk IO: 21226 | Network Connections: 259
-2023-04-30 12:16:51 | CPU: 76.9% | RAM: 8.7% | Disk IO: 21226 | Network Connections: 257
-2023-04-30 12:16:52 | CPU: 76.5% | RAM: 8.7% | Disk IO: 21229 | Network Connections: 256
-2023-04-30 12:16:53 | CPU: 76.6% | RAM: 8.7% | Disk IO: 21229 | Network Connections: 262
-2023-04-30 12:16:54 | CPU: 76.7% | RAM: 8.7% | Disk IO: 21229 | Network Connections: 263
-2023-04-30 12:16:55 | CPU: 76.5% | RAM: 8.7% | Disk IO: 21229 | Network Connections: 259
-2023-04-30 12:16:56 | CPU: 76.5% | RAM: 8.7% | Disk IO: 21229 | Network Connections: 260
-2023-04-30 12:16:57 | CPU: 76.7% | RAM: 8.7% | Disk IO: 21229 | Network Connections: 260
-2023-04-30 12:16:58 | CPU: 76.6% | RAM: 8.7% | Disk IO: 21229 | Network Connections: 256
-2023-04-30 12:16:59 | CPU: 76.7% | RAM: 8.7% | Disk IO: 21229 | Network Connections: 256
-2023-04-30 12:17:00 | CPU: 76.6% | RAM: 8.7% | Disk IO: 21229 | Network Connections: 259
-2023-04-30 12:17:01 | CPU: 77.4% | RAM: 8.8% | Disk IO: 21229 | Network Connections: 260
-2023-04-30 12:17:02 | CPU: 76.5% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 259
-2023-04-30 12:17:03 | CPU: 76.8% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 258
-2023-04-30 12:17:04 | CPU: 77.0% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 259
-2023-04-30 12:17:05 | CPU: 76.6% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 256
-2023-04-30 12:17:06 | CPU: 77.3% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 259
-2023-04-30 12:17:07 | CPU: 76.8% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 258
-2023-04-30 12:17:08 | CPU: 77.1% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 257
-2023-04-30 12:17:09 | CPU: 77.1% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 258
-2023-04-30 12:17:10 | CPU: 76.8% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 258
-2023-04-30 12:17:11 | CPU: 76.9% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 260
-2023-04-30 12:17:12 | CPU: 76.8% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 259
-2023-04-30 12:17:13 | CPU: 76.6% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 258
-2023-04-30 12:17:14 | CPU: 76.7% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 256
-2023-04-30 12:17:15 | CPU: 76.8% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 259
-2023-04-30 12:17:16 | CPU: 76.8% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 257
-2023-04-30 12:17:17 | CPU: 76.8% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 256
-2023-04-30 12:17:18 | CPU: 76.4% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 8
-2023-04-30 12:17:19 | CPU: 75.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 8
-2023-04-30 12:17:20 | CPU: 75.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 8
-2023-04-30 12:17:21 | CPU: 77.6% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 11
-2023-04-30 12:17:22 | CPU: 75.4% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 11
-2023-04-30 12:17:23 | CPU: 75.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 11
-2023-04-30 12:17:24 | CPU: 12.8% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:25 | CPU: 0.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:27 | CPU: 0.0% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:28 | CPU: 0.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:29 | CPU: 0.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:30 | CPU: 0.0% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:31 | CPU: 0.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:32 | CPU: 0.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:33 | CPU: 0.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:34 | CPU: 0.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:35 | CPU: 0.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 10
-2023-04-30 12:17:36 | CPU: 0.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:37 | CPU: 0.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:38 | CPU: 0.0% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:39 | CPU: 0.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:40 | CPU: 0.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:41 | CPU: 0.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:42 | CPU: 0.0% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:43 | CPU: 0.5% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:44 | CPU: 0.5% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 8
-2023-04-30 12:17:45 | CPU: 0.0% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 8
-2023-04-30 12:17:46 | CPU: 0.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 8
-2023-04-30 12:17:47 | CPU: 0.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 8
-2023-04-30 12:17:48 | CPU: 0.0% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 8
-2023-04-30 12:17:49 | CPU: 0.0% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 8
-2023-04-30 12:17:50 | CPU: 1.7% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:51 | CPU: 0.5% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:52 | CPU: 0.0% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:53 | CPU: 0.2% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 12:17:54 | CPU: 0.0% | RAM: 8.8% | Disk IO: 21232 | Network Connections: 9
-2023-04-30 15:43:00 | CPU: 0.0% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 7
-2023-04-30 15:43:01 | CPU: 0.2% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 7
-2023-04-30 15:43:02 | CPU: 0.7% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 7
-2023-04-30 15:43:03 | CPU: 0.0% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 7
-2023-04-30 15:43:04 | CPU: 0.5% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 7
-2023-04-30 15:43:05 | CPU: 0.0% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 7
-2023-04-30 15:43:06 | CPU: 0.2% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 7
-2023-04-30 15:43:07 | CPU: 0.5% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 34
-2023-04-30 15:43:08 | CPU: 76.6% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 208
-2023-04-30 15:43:09 | CPU: 77.0% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 301
-2023-04-30 15:43:10 | CPU: 77.1% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 457
-2023-04-30 15:43:11 | CPU: 77.1% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 593
-2023-04-30 15:43:12 | CPU: 75.8% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 757
-2023-04-30 15:43:13 | CPU: 75.8% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 957
-2023-04-30 15:43:14 | CPU: 78.1% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1108
-2023-04-30 15:43:15 | CPU: 75.8% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1231
-2023-04-30 15:43:16 | CPU: 76.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1298
-2023-04-30 15:43:17 | CPU: 76.6% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1336
-2023-04-30 15:43:18 | CPU: 77.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1390
-2023-04-30 15:43:19 | CPU: 78.6% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1405
-2023-04-30 15:43:20 | CPU: 75.8% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1422
-2023-04-30 15:43:21 | CPU: 75.9% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1393
-2023-04-30 15:43:22 | CPU: 76.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1360
-2023-04-30 15:43:23 | CPU: 76.6% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1363
-2023-04-30 15:43:24 | CPU: 77.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1364
-2023-04-30 15:43:25 | CPU: 76.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1365
-2023-04-30 15:43:27 | CPU: 76.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1363
-2023-04-30 15:43:28 | CPU: 76.3% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1363
-2023-04-30 15:43:29 | CPU: 75.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1363
-2023-04-30 15:43:30 | CPU: 76.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1379
-2023-04-30 15:43:31 | CPU: 76.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1442
-2023-04-30 15:43:32 | CPU: 77.1% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1509
-2023-04-30 15:43:33 | CPU: 76.9% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1557
-2023-04-30 15:43:34 | CPU: 76.1% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1584
-2023-04-30 15:43:35 | CPU: 76.6% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1596
-2023-04-30 15:43:36 | CPU: 76.8% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1606
-2023-04-30 15:43:37 | CPU: 76.9% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1606
-2023-04-30 15:43:38 | CPU: 76.1% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1611
-2023-04-30 15:43:39 | CPU: 75.9% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1648
-2023-04-30 15:43:40 | CPU: 76.3% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1592
-2023-04-30 15:43:41 | CPU: 76.8% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1593
-2023-04-30 15:43:42 | CPU: 75.9% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1556
-2023-04-30 15:43:43 | CPU: 76.3% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1559
-2023-04-30 15:43:44 | CPU: 76.3% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1401
-2023-04-30 15:43:45 | CPU: 75.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1403
-2023-04-30 15:43:46 | CPU: 75.9% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1253
-2023-04-30 15:43:47 | CPU: 75.8% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1253
-2023-04-30 15:43:48 | CPU: 75.9% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1253
-2023-04-30 15:43:49 | CPU: 75.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1253
-2023-04-30 15:43:50 | CPU: 75.6% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1253
-2023-04-30 15:43:51 | CPU: 75.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1253
-2023-04-30 15:43:52 | CPU: 75.8% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1254
-2023-04-30 15:43:53 | CPU: 75.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1254
-2023-04-30 15:43:54 | CPU: 43.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1254
-2023-04-30 15:43:55 | CPU: 0.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1254
-2023-04-30 15:43:56 | CPU: 3.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1255
-2023-04-30 15:43:57 | CPU: 0.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1255
-2023-04-30 15:43:58 | CPU: 0.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1255
-2023-04-30 15:43:59 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1255
-2023-04-30 15:50:52 | CPU: 0.0% | RAM: 8.9% | Disk IO: 21284 | Network Connections: 7
-2023-04-30 15:50:53 | CPU: 0.2% | RAM: 8.9% | Disk IO: 21284 | Network Connections: 7
-2023-04-30 15:50:54 | CPU: 0.0% | RAM: 8.9% | Disk IO: 21284 | Network Connections: 7
-2023-04-30 15:50:55 | CPU: 0.2% | RAM: 8.9% | Disk IO: 21284 | Network Connections: 7
-2023-04-30 15:50:56 | CPU: 0.2% | RAM: 8.9% | Disk IO: 21284 | Network Connections: 7
-2023-04-30 15:50:57 | CPU: 0.0% | RAM: 8.9% | Disk IO: 21284 | Network Connections: 7
-2023-04-30 15:50:58 | CPU: 51.1% | RAM: 8.9% | Disk IO: 21284 | Network Connections: 149
-2023-04-30 15:50:59 | CPU: 77.1% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 261
-2023-04-30 15:51:00 | CPU: 76.4% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 258
-2023-04-30 15:51:01 | CPU: 76.6% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 257
-2023-04-30 15:51:02 | CPU: 76.9% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 260
-2023-04-30 15:51:03 | CPU: 76.8% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 259
-2023-04-30 15:51:04 | CPU: 77.6% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 400
-2023-04-30 15:51:05 | CPU: 78.2% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 542
-2023-04-30 15:51:06 | CPU: 78.2% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 627
-2023-04-30 15:51:07 | CPU: 78.2% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 752
-2023-04-30 15:51:08 | CPU: 78.0% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 861
-2023-04-30 15:51:09 | CPU: 79.5% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 1005
-2023-04-30 15:51:10 | CPU: 77.4% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 1112
-2023-04-30 15:51:11 | CPU: 78.9% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 1183
-2023-04-30 15:51:12 | CPU: 79.5% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 1313
-2023-04-30 15:51:13 | CPU: 79.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1412
-2023-04-30 15:51:14 | CPU: 78.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1477
-2023-04-30 15:51:15 | CPU: 77.4% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1470
-2023-04-30 15:51:16 | CPU: 76.9% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1434
-2023-04-30 15:51:17 | CPU: 77.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1392
-2023-04-30 15:51:18 | CPU: 77.3% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1365
-2023-04-30 15:51:19 | CPU: 77.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1368
-2023-04-30 15:51:21 | CPU: 77.6% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1371
-2023-04-30 15:51:22 | CPU: 77.6% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1371
-2023-04-30 15:51:23 | CPU: 77.3% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1364
-2023-04-30 15:51:24 | CPU: 77.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1365
-2023-04-30 15:51:25 | CPU: 77.3% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1364
-2023-04-30 15:51:26 | CPU: 77.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1364
-2023-04-30 15:51:27 | CPU: 77.3% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1379
-2023-04-30 15:51:28 | CPU: 77.9% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1442
-2023-04-30 15:51:29 | CPU: 78.3% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1520
-2023-04-30 15:51:30 | CPU: 77.4% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1559
-2023-04-30 15:51:31 | CPU: 77.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1624
-2023-04-30 15:51:32 | CPU: 77.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1652
-2023-04-30 15:51:33 | CPU: 77.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1683
-2023-04-30 15:51:34 | CPU: 77.3% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1697
-2023-04-30 15:51:35 | CPU: 77.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1704
-2023-04-30 15:51:36 | CPU: 77.9% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1696
-2023-04-30 15:51:37 | CPU: 77.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1744
-2023-04-30 15:51:38 | CPU: 77.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1745
-2023-04-30 15:51:39 | CPU: 77.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1762
-2023-04-30 15:51:40 | CPU: 77.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1824
-2023-04-30 15:51:41 | CPU: 78.4% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1894
-2023-04-30 15:51:42 | CPU: 77.4% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1948
-2023-04-30 15:51:43 | CPU: 77.6% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1961
-2023-04-30 15:51:44 | CPU: 76.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1961
-2023-04-30 15:51:45 | CPU: 77.6% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1963
-2023-04-30 15:51:47 | CPU: 77.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1961
-2023-04-30 15:51:48 | CPU: 77.1% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1966
-2023-04-30 15:51:49 | CPU: 78.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1962
-2023-04-30 15:51:50 | CPU: 77.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2018
-2023-04-30 15:51:51 | CPU: 77.4% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2038
-2023-04-30 15:51:52 | CPU: 78.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2079
-2023-04-30 15:51:53 | CPU: 78.1% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2142
-2023-04-30 15:51:54 | CPU: 77.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2085
-2023-04-30 15:51:55 | CPU: 77.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2085
-2023-04-30 15:51:56 | CPU: 77.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2051
-2023-04-30 15:51:57 | CPU: 76.8% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2049
-2023-04-30 15:51:58 | CPU: 76.9% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1896
-2023-04-30 15:51:59 | CPU: 76.6% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1895
-2023-04-30 15:52:00 | CPU: 76.6% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1749
-2023-04-30 15:52:01 | CPU: 76.1% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1749
-2023-04-30 15:52:02 | CPU: 76.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1749
-2023-04-30 15:52:03 | CPU: 76.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1749
-2023-04-30 15:52:04 | CPU: 75.8% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1749
-2023-04-30 15:52:05 | CPU: 75.9% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1749
-2023-04-30 15:52:06 | CPU: 75.9% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1749
-2023-04-30 15:52:07 | CPU: 75.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1606
-2023-04-30 15:52:08 | CPU: 16.6% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1606
-2023-04-30 15:52:09 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1436
-2023-04-30 15:52:10 | CPU: 2.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1436
-2023-04-30 15:52:11 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1248
-2023-04-30 15:52:12 | CPU: 0.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1248
-2023-04-30 15:52:13 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1018
-2023-04-30 15:52:14 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1018
-2023-04-30 15:52:16 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 870
-2023-04-30 15:52:17 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 870
-2023-04-30 15:52:18 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 855
-2023-04-30 15:52:19 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 855
-2023-04-30 15:52:20 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 855
-2023-04-30 15:52:21 | CPU: 0.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 855
-2023-04-30 15:52:22 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 855
-2023-04-30 15:52:23 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 855
-2023-04-30 15:52:24 | CPU: 0.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 855
-2023-04-30 15:52:25 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 855
-2023-04-30 15:52:26 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 855
-2023-04-30 15:52:27 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 855
-2023-04-30 15:52:28 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 827
-2023-04-30 15:52:29 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 827
-2023-04-30 15:52:30 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 668
-2023-04-30 15:52:31 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 668
-2023-04-30 15:52:32 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 560
-2023-04-30 15:52:33 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 560
-2023-04-30 15:52:34 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 507
-2023-04-30 15:52:35 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 507
-2023-04-30 15:52:36 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 482
-2023-04-30 15:52:37 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 482
-2023-04-30 15:52:38 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 434
-2023-04-30 15:52:39 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 434
-2023-04-30 15:52:40 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 422
-2023-04-30 15:52:41 | CPU: 0.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 422
-2023-04-30 15:52:42 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 293
-2023-04-30 15:52:43 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 293
-2023-04-30 15:52:44 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 218
-2023-04-30 15:52:45 | CPU: 0.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 218
-2023-04-30 15:52:46 | CPU: 0.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 214
-2023-04-30 15:52:47 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 214
-2023-04-30 15:52:48 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 214
-2023-04-30 15:52:49 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 214
-2023-04-30 15:52:50 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 176
-2023-04-30 15:52:51 | CPU: 0.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 176
-2023-04-30 15:52:52 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 118
-2023-04-30 15:52:53 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 118
-2023-04-30 15:52:54 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 7
-2023-04-30 15:52:55 | CPU: 0.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 7
-2023-04-30 15:52:56 | CPU: 0.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 7
-2023-04-30 15:52:57 | CPU: 0.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 7
-2023-04-30 16:20:55 | CPU: 0.0% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 10
-2023-04-30 16:20:56 | CPU: 0.2% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 10
-2023-04-30 16:20:57 | CPU: 0.5% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 10
-2023-04-30 16:20:58 | CPU: 0.2% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 10
-2023-04-30 16:20:59 | CPU: 0.2% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 10
-2023-04-30 16:21:00 | CPU: 0.2% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 10
-2023-04-30 16:21:01 | CPU: 0.5% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 10
-2023-04-30 16:21:02 | CPU: 0.0% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 10
-2023-04-30 16:21:03 | CPU: 0.2% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 10
-2023-04-30 16:21:04 | CPU: 0.2% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 10
-2023-04-30 16:21:05 | CPU: 0.0% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 10
-2023-04-30 16:21:06 | CPU: 18.4% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 90
-2023-04-30 16:21:07 | CPU: 77.8% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 251
-2023-04-30 16:21:08 | CPU: 77.7% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 462
-2023-04-30 16:21:09 | CPU: 76.8% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 649
-2023-04-30 16:21:10 | CPU: 77.5% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 728
-2023-04-30 16:21:11 | CPU: 77.8% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 917
-2023-04-30 16:21:12 | CPU: 77.1% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 1143
-2023-04-30 16:21:13 | CPU: 76.6% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 1298
-2023-04-30 16:21:15 | CPU: 77.4% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 1418
-2023-04-30 16:21:16 | CPU: 77.3% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 1540
-2023-04-30 16:21:17 | CPU: 77.8% | RAM: 9.0% | Disk IO: 21284 | Network Connections: 1559
-2023-04-30 16:21:18 | CPU: 78.3% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1575
-2023-04-30 16:21:19 | CPU: 76.6% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1593
-2023-04-30 16:21:20 | CPU: 78.4% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1619
-2023-04-30 16:21:21 | CPU: 78.1% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1668
-2023-04-30 16:21:22 | CPU: 75.8% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1635
-2023-04-30 16:21:23 | CPU: 76.6% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1596
-2023-04-30 16:21:24 | CPU: 76.6% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1573
-2023-04-30 16:21:25 | CPU: 77.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1572
-2023-04-30 16:21:26 | CPU: 77.4% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1572
-2023-04-30 16:21:27 | CPU: 76.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1570
-2023-04-30 16:21:28 | CPU: 76.1% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1565
-2023-04-30 16:21:29 | CPU: 75.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1559
-2023-04-30 16:21:30 | CPU: 76.3% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1554
-2023-04-30 16:21:31 | CPU: 76.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1547
-2023-04-30 16:21:32 | CPU: 77.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1542
-2023-04-30 16:21:33 | CPU: 76.9% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1533
-2023-04-30 16:21:34 | CPU: 77.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1525
-2023-04-30 16:21:35 | CPU: 75.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1525
-2023-04-30 16:21:36 | CPU: 76.4% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1555
-2023-04-30 16:21:37 | CPU: 76.1% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1591
-2023-04-30 16:21:38 | CPU: 75.8% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1651
-2023-04-30 16:21:39 | CPU: 75.8% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1705
-2023-04-30 16:21:41 | CPU: 77.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1744
-2023-04-30 16:21:42 | CPU: 76.1% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1784
-2023-04-30 16:21:43 | CPU: 76.5% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1822
-2023-04-30 16:21:44 | CPU: 76.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1851
-2023-04-30 16:21:45 | CPU: 77.1% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1881
-2023-04-30 16:21:46 | CPU: 76.1% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1906
-2023-04-30 16:21:47 | CPU: 76.4% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1922
-2023-04-30 16:21:48 | CPU: 75.9% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1927
-2023-04-30 16:21:49 | CPU: 77.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1943
-2023-04-30 16:21:50 | CPU: 77.4% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1995
-2023-04-30 16:21:51 | CPU: 76.9% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2047
-2023-04-30 16:21:52 | CPU: 76.3% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2104
-2023-04-30 16:21:53 | CPU: 76.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2160
-2023-04-30 16:21:54 | CPU: 77.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2173
-2023-04-30 16:21:55 | CPU: 76.9% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2177
-2023-04-30 16:21:56 | CPU: 76.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2183
-2023-04-30 16:21:57 | CPU: 76.2% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2183
-2023-04-30 16:21:58 | CPU: 76.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2198
-2023-04-30 16:21:59 | CPU: 76.6% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2210
-2023-04-30 16:22:00 | CPU: 77.0% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2207
-2023-04-30 16:22:01 | CPU: 77.1% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 2206
-2023-04-30 16:22:02 | CPU: 77.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 2206
-2023-04-30 16:22:03 | CPU: 77.1% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 2208
-2023-04-30 16:22:04 | CPU: 76.7% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 2220
-2023-04-30 16:22:06 | CPU: 76.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 2264
-2023-04-30 16:22:07 | CPU: 76.1% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 2270
-2023-04-30 16:22:08 | CPU: 76.5% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 2283
-2023-04-30 16:22:09 | CPU: 76.5% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 2252
-2023-04-30 16:22:10 | CPU: 76.4% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 2248
-2023-04-30 16:22:11 | CPU: 77.0% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 2072
-2023-04-30 16:22:12 | CPU: 77.3% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 2077
-2023-04-30 16:22:13 | CPU: 77.1% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1808
-2023-04-30 16:22:14 | CPU: 76.3% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1807
-2023-04-30 16:22:15 | CPU: 76.7% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1628
-2023-04-30 16:22:16 | CPU: 77.1% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1628
-2023-04-30 16:22:17 | CPU: 76.6% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1538
-2023-04-30 16:22:18 | CPU: 76.0% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1540
-2023-04-30 16:22:19 | CPU: 76.8% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1398
-2023-04-30 16:22:20 | CPU: 75.9% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1395
-2023-04-30 16:22:21 | CPU: 76.1% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1202
-2023-04-30 16:22:22 | CPU: 75.7% | RAM: 9.1% | Disk IO: 21284 | Network Connections: 1203
-2023-04-30 16:22:23 | CPU: 75.9% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1225
-2023-04-30 16:22:24 | CPU: 76.7% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1243
-2023-04-30 16:22:25 | CPU: 76.6% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1264
-2023-04-30 16:22:26 | CPU: 76.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1296
-2023-04-30 16:22:27 | CPU: 76.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1307
-2023-04-30 16:22:28 | CPU: 76.0% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1315
-2023-04-30 16:22:29 | CPU: 76.9% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1335
-2023-04-30 16:22:30 | CPU: 75.9% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1356
-2023-04-30 16:22:31 | CPU: 77.0% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1392
-2023-04-30 16:22:32 | CPU: 77.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1433
-2023-04-30 16:22:34 | CPU: 75.9% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1456
-2023-04-30 16:22:35 | CPU: 76.8% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1462
-2023-04-30 16:22:36 | CPU: 76.8% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1461
-2023-04-30 16:22:37 | CPU: 76.6% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1472
-2023-04-30 16:22:38 | CPU: 76.4% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1430
-2023-04-30 16:22:39 | CPU: 76.8% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1435
-2023-04-30 16:22:40 | CPU: 76.3% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1327
-2023-04-30 16:22:41 | CPU: 75.9% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1337
-2023-04-30 16:22:42 | CPU: 76.4% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1225
-2023-04-30 16:22:43 | CPU: 76.1% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 1127
-2023-04-30 16:22:44 | CPU: 76.0% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 880
-2023-04-30 16:22:45 | CPU: 75.7% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 791
-2023-04-30 16:22:46 | CPU: 75.4% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 732
-2023-04-30 16:22:47 | CPU: 75.6% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 732
-2023-04-30 16:22:48 | CPU: 75.6% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 709
-2023-04-30 16:22:49 | CPU: 75.4% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 709
-2023-04-30 16:22:50 | CPU: 75.7% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 655
-2023-04-30 16:22:51 | CPU: 75.3% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 655
-2023-04-30 16:22:52 | CPU: 75.8% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 554
-2023-04-30 16:22:53 | CPU: 69.5% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 554
-2023-04-30 16:22:54 | CPU: 2.0% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 461
-2023-04-30 16:22:55 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 461
-2023-04-30 16:22:56 | CPU: 0.5% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 451
-2023-04-30 16:22:57 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 451
-2023-04-30 16:22:58 | CPU: 0.5% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 445
-2023-04-30 16:22:59 | CPU: 0.0% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 445
-2023-04-30 16:23:00 | CPU: 0.5% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 423
-2023-04-30 16:23:01 | CPU: 0.5% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 423
-2023-04-30 16:23:02 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 423
-2023-04-30 16:23:03 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 423
-2023-04-30 16:23:04 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 423
-2023-04-30 16:23:05 | CPU: 0.5% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 423
-2023-04-30 16:23:06 | CPU: 0.5% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 364
-2023-04-30 16:23:07 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 364
-2023-04-30 16:23:08 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 347
-2023-04-30 16:23:09 | CPU: 0.5% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 347
-2023-04-30 16:23:10 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 347
-2023-04-30 16:23:11 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 347
-2023-04-30 16:23:12 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 347
-2023-04-30 16:23:13 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 347
-2023-04-30 16:23:14 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 347
-2023-04-30 16:23:15 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 347
-2023-04-30 16:23:16 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 347
-2023-04-30 16:23:17 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 347
-2023-04-30 16:23:18 | CPU: 0.5% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 347
-2023-04-30 16:23:19 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 347
-2023-04-30 16:23:20 | CPU: 0.0% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 347
-2023-04-30 16:23:21 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 347
-2023-04-30 16:23:22 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 336
-2023-04-30 16:23:23 | CPU: 0.5% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 336
-2023-04-30 16:23:24 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 295
-2023-04-30 16:23:25 | CPU: 0.5% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 295
-2023-04-30 16:23:26 | CPU: 0.0% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 239
-2023-04-30 16:23:27 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 239
-2023-04-30 16:23:28 | CPU: 0.2% | RAM: 9.2% | Disk IO: 21284 | Network Connections: 215
+2023-04-30 16:54:59 | CPU: 0.0% | RAM: 9.1% | Disk Read Count: 22159 | Disk Write Count: 53173 | Disk Read Bytes: 686870528 | Disk Write Bytes: 850315264 | Disk Read Time: 4922 | Disk Write Time: 86344 | Disk Busy Time: 58768 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28369 | Network Connections: 7
+2023-04-30 16:55:00 | CPU: 0.0% | RAM: 9.1% | Disk Read Count: 22159 | Disk Write Count: 53173 | Disk Read Bytes: 686870528 | Disk Write Bytes: 850315264 | Disk Read Time: 4922 | Disk Write Time: 86344 | Disk Busy Time: 58768 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28369 | Network Connections: 7
+2023-04-30 16:55:01 | CPU: 0.5% | RAM: 9.1% | Disk Read Count: 22159 | Disk Write Count: 53173 | Disk Read Bytes: 686870528 | Disk Write Bytes: 850315264 | Disk Read Time: 4922 | Disk Write Time: 86344 | Disk Busy Time: 58768 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28369 | Network Connections: 7
+2023-04-30 16:55:02 | CPU: 0.0% | RAM: 9.1% | Disk Read Count: 22159 | Disk Write Count: 53173 | Disk Read Bytes: 686870528 | Disk Write Bytes: 850315264 | Disk Read Time: 4922 | Disk Write Time: 86344 | Disk Busy Time: 58768 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28369 | Network Connections: 7
+2023-04-30 16:55:03 | CPU: 0.2% | RAM: 9.1% | Disk Read Count: 22159 | Disk Write Count: 53173 | Disk Read Bytes: 686870528 | Disk Write Bytes: 850315264 | Disk Read Time: 4922 | Disk Write Time: 86344 | Disk Busy Time: 58768 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28369 | Network Connections: 7
+2023-04-30 16:55:04 | CPU: 34.8% | RAM: 9.1% | Disk Read Count: 22159 | Disk Write Count: 53179 | Disk Read Bytes: 686870528 | Disk Write Bytes: 850368512 | Disk Read Time: 4922 | Disk Write Time: 86351 | Disk Busy Time: 58780 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28376 | Network Connections: 91
+2023-04-30 16:55:05 | CPU: 76.9% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53181 | Disk Read Bytes: 686870528 | Disk Write Bytes: 850376704 | Disk Read Time: 4922 | Disk Write Time: 86352 | Disk Busy Time: 58784 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28376 | Network Connections: 262
+2023-04-30 16:55:06 | CPU: 76.5% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53181 | Disk Read Bytes: 686870528 | Disk Write Bytes: 850376704 | Disk Read Time: 4922 | Disk Write Time: 86352 | Disk Busy Time: 58784 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28376 | Network Connections: 263
+2023-04-30 16:55:07 | CPU: 76.5% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53181 | Disk Read Bytes: 686870528 | Disk Write Bytes: 850376704 | Disk Read Time: 4922 | Disk Write Time: 86352 | Disk Busy Time: 58784 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28376 | Network Connections: 334
+2023-04-30 16:55:08 | CPU: 77.1% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53181 | Disk Read Bytes: 686870528 | Disk Write Bytes: 850376704 | Disk Read Time: 4922 | Disk Write Time: 86352 | Disk Busy Time: 58784 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28376 | Network Connections: 474
+2023-04-30 16:55:09 | CPU: 77.7% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53185 | Disk Read Bytes: 686870528 | Disk Write Bytes: 850528256 | Disk Read Time: 4922 | Disk Write Time: 86359 | Disk Busy Time: 58796 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28393 | Network Connections: 607
+2023-04-30 16:55:10 | CPU: 78.9% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53212 | Disk Read Bytes: 686870528 | Disk Write Bytes: 850647040 | Disk Read Time: 4922 | Disk Write Time: 86395 | Disk Busy Time: 58804 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28394 | Network Connections: 756
+2023-04-30 16:55:11 | CPU: 77.0% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53213 | Disk Read Bytes: 686870528 | Disk Write Bytes: 850651136 | Disk Read Time: 4922 | Disk Write Time: 86396 | Disk Busy Time: 58808 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28394 | Network Connections: 886
+2023-04-30 16:55:12 | CPU: 77.9% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53213 | Disk Read Bytes: 686870528 | Disk Write Bytes: 850651136 | Disk Read Time: 4922 | Disk Write Time: 86396 | Disk Busy Time: 58808 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28394 | Network Connections: 1092
+2023-04-30 16:55:13 | CPU: 77.5% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53213 | Disk Read Bytes: 686870528 | Disk Write Bytes: 850651136 | Disk Read Time: 4922 | Disk Write Time: 86396 | Disk Busy Time: 58808 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28394 | Network Connections: 1142
+2023-04-30 16:55:14 | CPU: 76.8% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53217 | Disk Read Bytes: 686870528 | Disk Write Bytes: 850978816 | Disk Read Time: 4922 | Disk Write Time: 86400 | Disk Busy Time: 58816 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28409 | Network Connections: 1298
+2023-04-30 16:55:15 | CPU: 77.4% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53217 | Disk Read Bytes: 686870528 | Disk Write Bytes: 850978816 | Disk Read Time: 4922 | Disk Write Time: 86400 | Disk Busy Time: 58816 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28409 | Network Connections: 1444
+2023-04-30 16:55:16 | CPU: 77.8% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53237 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851073024 | Disk Read Time: 4922 | Disk Write Time: 86413 | Disk Busy Time: 58820 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28411 | Network Connections: 1560
+2023-04-30 16:55:17 | CPU: 76.1% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53238 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851077120 | Disk Read Time: 4922 | Disk Write Time: 86419 | Disk Busy Time: 58828 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28411 | Network Connections: 1591
+2023-04-30 16:55:18 | CPU: 77.0% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53238 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851077120 | Disk Read Time: 4922 | Disk Write Time: 86419 | Disk Busy Time: 58828 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28411 | Network Connections: 1574
+2023-04-30 16:55:20 | CPU: 78.0% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53248 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851167232 | Disk Read Time: 4922 | Disk Write Time: 86428 | Disk Busy Time: 58840 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28423 | Network Connections: 1625
+2023-04-30 16:55:21 | CPU: 77.7% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53248 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851167232 | Disk Read Time: 4922 | Disk Write Time: 86428 | Disk Busy Time: 58840 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28423 | Network Connections: 1686
+2023-04-30 16:55:22 | CPU: 76.8% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53250 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851175424 | Disk Read Time: 4922 | Disk Write Time: 86429 | Disk Busy Time: 58844 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28423 | Network Connections: 1682
+2023-04-30 16:55:23 | CPU: 76.3% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53250 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851175424 | Disk Read Time: 4922 | Disk Write Time: 86429 | Disk Busy Time: 58844 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28423 | Network Connections: 1645
+2023-04-30 16:55:24 | CPU: 77.0% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53250 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851175424 | Disk Read Time: 4922 | Disk Write Time: 86429 | Disk Busy Time: 58844 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28423 | Network Connections: 1604
+2023-04-30 16:55:25 | CPU: 76.3% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53252 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851220480 | Disk Read Time: 4922 | Disk Write Time: 86431 | Disk Busy Time: 58848 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28432 | Network Connections: 1584
+2023-04-30 16:55:26 | CPU: 76.4% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53252 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851220480 | Disk Read Time: 4922 | Disk Write Time: 86431 | Disk Busy Time: 58848 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28432 | Network Connections: 1583
+2023-04-30 16:55:27 | CPU: 76.7% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53253 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851224576 | Disk Read Time: 4922 | Disk Write Time: 86431 | Disk Busy Time: 58852 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28432 | Network Connections: 1582
+2023-04-30 16:55:28 | CPU: 76.2% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53253 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851224576 | Disk Read Time: 4922 | Disk Write Time: 86431 | Disk Busy Time: 58852 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28432 | Network Connections: 1576
+2023-04-30 16:55:29 | CPU: 76.7% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53253 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851224576 | Disk Read Time: 4922 | Disk Write Time: 86431 | Disk Busy Time: 58852 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28432 | Network Connections: 1574
+2023-04-30 16:55:30 | CPU: 76.0% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53260 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851273728 | Disk Read Time: 4922 | Disk Write Time: 86437 | Disk Busy Time: 58860 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28437 | Network Connections: 1573
+2023-04-30 16:55:31 | CPU: 75.9% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53260 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851273728 | Disk Read Time: 4922 | Disk Write Time: 86437 | Disk Busy Time: 58860 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28437 | Network Connections: 1565
+2023-04-30 16:55:32 | CPU: 76.6% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53260 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851273728 | Disk Read Time: 4922 | Disk Write Time: 86437 | Disk Busy Time: 58860 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28437 | Network Connections: 1561
+2023-04-30 16:55:33 | CPU: 76.4% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53261 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851281920 | Disk Read Time: 4922 | Disk Write Time: 86438 | Disk Busy Time: 58864 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28438 | Network Connections: 1550
+2023-04-30 16:55:34 | CPU: 76.3% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53261 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851281920 | Disk Read Time: 4922 | Disk Write Time: 86438 | Disk Busy Time: 58864 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28438 | Network Connections: 1546
+2023-04-30 16:55:35 | CPU: 75.9% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53263 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851331072 | Disk Read Time: 4922 | Disk Write Time: 86439 | Disk Busy Time: 58868 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28448 | Network Connections: 1544
+2023-04-30 16:55:36 | CPU: 76.1% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53263 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851331072 | Disk Read Time: 4922 | Disk Write Time: 86439 | Disk Busy Time: 58868 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28448 | Network Connections: 1545
+2023-04-30 16:55:37 | CPU: 76.3% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53263 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851331072 | Disk Read Time: 4922 | Disk Write Time: 86439 | Disk Busy Time: 58868 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28448 | Network Connections: 1589
+2023-04-30 16:55:38 | CPU: 76.4% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53264 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851335168 | Disk Read Time: 4922 | Disk Write Time: 86440 | Disk Busy Time: 58872 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28448 | Network Connections: 1644
+2023-04-30 16:55:39 | CPU: 76.3% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53277 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851425280 | Disk Read Time: 4922 | Disk Write Time: 86453 | Disk Busy Time: 58888 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28457 | Network Connections: 1693
+2023-04-30 16:55:40 | CPU: 77.0% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53277 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851425280 | Disk Read Time: 4922 | Disk Write Time: 86453 | Disk Busy Time: 58888 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28457 | Network Connections: 1717
+2023-04-30 16:55:41 | CPU: 76.4% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53277 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851425280 | Disk Read Time: 4922 | Disk Write Time: 86453 | Disk Busy Time: 58888 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28457 | Network Connections: 1717
+2023-04-30 16:55:42 | CPU: 77.3% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53277 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851425280 | Disk Read Time: 4922 | Disk Write Time: 86453 | Disk Busy Time: 58888 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28457 | Network Connections: 1718
+2023-04-30 16:55:43 | CPU: 77.6% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53278 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851429376 | Disk Read Time: 4922 | Disk Write Time: 86453 | Disk Busy Time: 58892 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28457 | Network Connections: 1720
+2023-04-30 16:55:44 | CPU: 77.2% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53280 | Disk Read Bytes: 686870528 | Disk Write Bytes: 851462144 | Disk Read Time: 4922 | Disk Write Time: 86456 | Disk Busy Time: 58896 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28463 | Network Connections: 1718
+2023-04-30 16:55:45 | CPU: 77.3% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53282 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852068352 | Disk Read Time: 4922 | Disk Write Time: 86460 | Disk Busy Time: 58900 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28465 | Network Connections: 1719
+2023-04-30 16:55:47 | CPU: 77.2% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53282 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852068352 | Disk Read Time: 4922 | Disk Write Time: 86460 | Disk Busy Time: 58900 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28465 | Network Connections: 1717
+2023-04-30 16:55:48 | CPU: 77.5% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53282 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852068352 | Disk Read Time: 4922 | Disk Write Time: 86460 | Disk Busy Time: 58900 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28465 | Network Connections: 1721
+2023-04-30 16:55:49 | CPU: 77.1% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53282 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852068352 | Disk Read Time: 4922 | Disk Write Time: 86460 | Disk Busy Time: 58900 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28465 | Network Connections: 1721
+2023-04-30 16:55:50 | CPU: 77.6% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53294 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852166656 | Disk Read Time: 4922 | Disk Write Time: 86469 | Disk Busy Time: 58912 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28477 | Network Connections: 1721
+2023-04-30 16:55:51 | CPU: 77.5% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53294 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852166656 | Disk Read Time: 4922 | Disk Write Time: 86469 | Disk Busy Time: 58912 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28477 | Network Connections: 1721
+2023-04-30 16:55:52 | CPU: 77.5% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53294 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852166656 | Disk Read Time: 4922 | Disk Write Time: 86469 | Disk Busy Time: 58912 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28477 | Network Connections: 1721
+2023-04-30 16:55:53 | CPU: 77.4% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53294 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852166656 | Disk Read Time: 4922 | Disk Write Time: 86469 | Disk Busy Time: 58912 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28477 | Network Connections: 1720
+2023-04-30 16:55:54 | CPU: 77.4% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53294 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852166656 | Disk Read Time: 4922 | Disk Write Time: 86469 | Disk Busy Time: 58912 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28477 | Network Connections: 1718
+2023-04-30 16:55:55 | CPU: 77.4% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53297 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852199424 | Disk Read Time: 4922 | Disk Write Time: 86471 | Disk Busy Time: 58920 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28482 | Network Connections: 1721
+2023-04-30 16:55:56 | CPU: 76.9% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53297 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852199424 | Disk Read Time: 4922 | Disk Write Time: 86471 | Disk Busy Time: 58920 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28482 | Network Connections: 1719
+2023-04-30 16:55:57 | CPU: 77.2% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53297 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852199424 | Disk Read Time: 4922 | Disk Write Time: 86471 | Disk Busy Time: 58920 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28482 | Network Connections: 1721
+2023-04-30 16:55:58 | CPU: 77.4% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53297 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852199424 | Disk Read Time: 4922 | Disk Write Time: 86471 | Disk Busy Time: 58920 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28482 | Network Connections: 1720
+2023-04-30 16:55:59 | CPU: 77.2% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53297 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852199424 | Disk Read Time: 4922 | Disk Write Time: 86471 | Disk Busy Time: 58920 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28482 | Network Connections: 1718
+2023-04-30 16:56:00 | CPU: 77.3% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53304 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852264960 | Disk Read Time: 4922 | Disk Write Time: 86480 | Disk Busy Time: 58936 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28491 | Network Connections: 1718
+2023-04-30 16:56:01 | CPU: 77.3% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53307 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852277248 | Disk Read Time: 4922 | Disk Write Time: 86482 | Disk Busy Time: 58940 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28491 | Network Connections: 1721
+2023-04-30 16:56:02 | CPU: 77.2% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53307 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852277248 | Disk Read Time: 4922 | Disk Write Time: 86482 | Disk Busy Time: 58940 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28491 | Network Connections: 1719
+2023-04-30 16:56:03 | CPU: 77.3% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53307 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852277248 | Disk Read Time: 4922 | Disk Write Time: 86482 | Disk Busy Time: 58940 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28491 | Network Connections: 1720
+2023-04-30 16:56:04 | CPU: 77.3% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53307 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852277248 | Disk Read Time: 4922 | Disk Write Time: 86482 | Disk Busy Time: 58940 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28491 | Network Connections: 1718
+2023-04-30 16:56:05 | CPU: 77.0% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53326 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852391936 | Disk Read Time: 4922 | Disk Write Time: 86504 | Disk Busy Time: 58948 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28499 | Network Connections: 1718
+2023-04-30 16:56:06 | CPU: 77.4% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53327 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852396032 | Disk Read Time: 4922 | Disk Write Time: 86505 | Disk Busy Time: 58952 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28499 | Network Connections: 1718
+2023-04-30 16:56:07 | CPU: 77.1% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53327 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852396032 | Disk Read Time: 4922 | Disk Write Time: 86505 | Disk Busy Time: 58952 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28499 | Network Connections: 1718
+2023-04-30 16:56:08 | CPU: 77.1% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53327 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852396032 | Disk Read Time: 4922 | Disk Write Time: 86505 | Disk Busy Time: 58952 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28499 | Network Connections: 1719
+2023-04-30 16:56:09 | CPU: 77.4% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53329 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852424704 | Disk Read Time: 4922 | Disk Write Time: 86506 | Disk Busy Time: 58956 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28504 | Network Connections: 1667
+2023-04-30 16:56:10 | CPU: 77.1% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53332 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852436992 | Disk Read Time: 4922 | Disk Write Time: 86508 | Disk Busy Time: 58960 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28504 | Network Connections: 1665
+2023-04-30 16:56:11 | CPU: 77.1% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53332 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852436992 | Disk Read Time: 4922 | Disk Write Time: 86508 | Disk Busy Time: 58960 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28504 | Network Connections: 1478
+2023-04-30 16:56:12 | CPU: 77.0% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53333 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852445184 | Disk Read Time: 4922 | Disk Write Time: 86509 | Disk Busy Time: 58964 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28505 | Network Connections: 1477
+2023-04-30 16:56:13 | CPU: 77.0% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53333 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852445184 | Disk Read Time: 4922 | Disk Write Time: 86509 | Disk Busy Time: 58964 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28505 | Network Connections: 1299
+2023-04-30 16:56:15 | CPU: 77.0% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53335 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852486144 | Disk Read Time: 4922 | Disk Write Time: 86510 | Disk Busy Time: 58972 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28513 | Network Connections: 1209
+2023-04-30 16:56:16 | CPU: 77.4% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53336 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852752384 | Disk Read Time: 4922 | Disk Write Time: 86512 | Disk Busy Time: 58976 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28514 | Network Connections: 1079
+2023-04-30 16:56:17 | CPU: 77.2% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53336 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852752384 | Disk Read Time: 4922 | Disk Write Time: 86512 | Disk Busy Time: 58976 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28514 | Network Connections: 941
+2023-04-30 16:56:18 | CPU: 77.1% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53337 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852756480 | Disk Read Time: 4922 | Disk Write Time: 86512 | Disk Busy Time: 58980 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28514 | Network Connections: 942
+2023-04-30 16:56:19 | CPU: 77.0% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53337 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852756480 | Disk Read Time: 4922 | Disk Write Time: 86512 | Disk Busy Time: 58980 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28514 | Network Connections: 837
+2023-04-30 16:56:20 | CPU: 77.3% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53350 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852858880 | Disk Read Time: 4922 | Disk Write Time: 86523 | Disk Busy Time: 58992 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28526 | Network Connections: 841
+2023-04-30 16:56:21 | CPU: 77.0% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53350 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852858880 | Disk Read Time: 4922 | Disk Write Time: 86523 | Disk Busy Time: 58992 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28526 | Network Connections: 608
+2023-04-30 16:56:22 | CPU: 76.9% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53350 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852858880 | Disk Read Time: 4922 | Disk Write Time: 86523 | Disk Busy Time: 58992 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28526 | Network Connections: 603
+2023-04-30 16:56:23 | CPU: 77.3% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53351 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852862976 | Disk Read Time: 4922 | Disk Write Time: 86523 | Disk Busy Time: 58996 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28526 | Network Connections: 586
+2023-04-30 16:56:24 | CPU: 77.3% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53351 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852862976 | Disk Read Time: 4922 | Disk Write Time: 86523 | Disk Busy Time: 58996 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28526 | Network Connections: 586
+2023-04-30 16:56:25 | CPU: 76.9% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53353 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852891648 | Disk Read Time: 4922 | Disk Write Time: 86525 | Disk Busy Time: 59004 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28531 | Network Connections: 585
+2023-04-30 16:56:26 | CPU: 77.1% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53353 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852891648 | Disk Read Time: 4922 | Disk Write Time: 86525 | Disk Busy Time: 59004 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28531 | Network Connections: 585
+2023-04-30 16:56:27 | CPU: 77.1% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53353 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852891648 | Disk Read Time: 4922 | Disk Write Time: 86525 | Disk Busy Time: 59004 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28531 | Network Connections: 587
+2023-04-30 16:56:28 | CPU: 77.1% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53353 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852891648 | Disk Read Time: 4922 | Disk Write Time: 86525 | Disk Busy Time: 59004 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28531 | Network Connections: 588
+2023-04-30 16:56:29 | CPU: 77.0% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53355 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852899840 | Disk Read Time: 4922 | Disk Write Time: 86526 | Disk Busy Time: 59008 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28531 | Network Connections: 588
+2023-04-30 16:56:30 | CPU: 77.0% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53361 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852957184 | Disk Read Time: 4922 | Disk Write Time: 86532 | Disk Busy Time: 59016 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28539 | Network Connections: 589
+2023-04-30 16:56:31 | CPU: 76.9% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53361 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852957184 | Disk Read Time: 4922 | Disk Write Time: 86532 | Disk Busy Time: 59016 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28539 | Network Connections: 587
+2023-04-30 16:56:32 | CPU: 77.1% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53361 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852957184 | Disk Read Time: 4922 | Disk Write Time: 86532 | Disk Busy Time: 59016 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28539 | Network Connections: 588
+2023-04-30 16:56:33 | CPU: 76.6% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53361 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852957184 | Disk Read Time: 4922 | Disk Write Time: 86532 | Disk Busy Time: 59016 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28539 | Network Connections: 587
+2023-04-30 16:56:34 | CPU: 76.9% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53362 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852961280 | Disk Read Time: 4922 | Disk Write Time: 86533 | Disk Busy Time: 59020 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28539 | Network Connections: 586
+2023-04-30 16:56:35 | CPU: 77.5% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53364 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852989952 | Disk Read Time: 4922 | Disk Write Time: 86534 | Disk Busy Time: 59024 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28544 | Network Connections: 582
+2023-04-30 16:56:36 | CPU: 77.2% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53364 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852989952 | Disk Read Time: 4922 | Disk Write Time: 86534 | Disk Busy Time: 59024 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28544 | Network Connections: 586
+2023-04-30 16:56:37 | CPU: 77.2% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53364 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852989952 | Disk Read Time: 4922 | Disk Write Time: 86534 | Disk Busy Time: 59024 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28544 | Network Connections: 546
+2023-04-30 16:56:38 | CPU: 76.7% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53364 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852989952 | Disk Read Time: 4922 | Disk Write Time: 86534 | Disk Busy Time: 59024 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28544 | Network Connections: 548
+2023-04-30 16:56:39 | CPU: 76.9% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53366 | Disk Read Bytes: 686870528 | Disk Write Bytes: 852998144 | Disk Read Time: 4922 | Disk Write Time: 86536 | Disk Busy Time: 59028 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28544 | Network Connections: 440
+2023-04-30 16:56:40 | CPU: 77.2% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53374 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853063680 | Disk Read Time: 4922 | Disk Write Time: 86541 | Disk Busy Time: 59036 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28552 | Network Connections: 440
+2023-04-30 16:56:41 | CPU: 76.9% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53374 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853063680 | Disk Read Time: 4922 | Disk Write Time: 86541 | Disk Busy Time: 59036 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28552 | Network Connections: 406
+2023-04-30 16:56:42 | CPU: 77.3% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53374 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853063680 | Disk Read Time: 4922 | Disk Write Time: 86541 | Disk Busy Time: 59036 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28552 | Network Connections: 404
+2023-04-30 16:56:43 | CPU: 77.1% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53375 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853067776 | Disk Read Time: 4922 | Disk Write Time: 86542 | Disk Busy Time: 59040 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28552 | Network Connections: 402
+2023-04-30 16:56:44 | CPU: 77.9% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53375 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853067776 | Disk Read Time: 4922 | Disk Write Time: 86542 | Disk Busy Time: 59040 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28552 | Network Connections: 404
+2023-04-30 16:56:45 | CPU: 76.8% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53377 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853108736 | Disk Read Time: 4922 | Disk Write Time: 86543 | Disk Busy Time: 59048 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28560 | Network Connections: 402
+2023-04-30 16:56:46 | CPU: 77.0% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53395 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853456896 | Disk Read Time: 4922 | Disk Write Time: 86564 | Disk Busy Time: 59060 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28561 | Network Connections: 404
+2023-04-30 16:56:47 | CPU: 77.0% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53395 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853456896 | Disk Read Time: 4922 | Disk Write Time: 86564 | Disk Busy Time: 59060 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28561 | Network Connections: 398
+2023-04-30 16:56:48 | CPU: 76.7% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53395 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853456896 | Disk Read Time: 4922 | Disk Write Time: 86564 | Disk Busy Time: 59060 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28561 | Network Connections: 402
+2023-04-30 16:56:49 | CPU: 77.1% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53399 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853473280 | Disk Read Time: 4922 | Disk Write Time: 86567 | Disk Busy Time: 59068 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28561 | Network Connections: 402
+2023-04-30 16:56:50 | CPU: 77.0% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53404 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853526528 | Disk Read Time: 4922 | Disk Write Time: 86570 | Disk Busy Time: 59076 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28569 | Network Connections: 401
+2023-04-30 16:56:51 | CPU: 76.8% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53404 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853526528 | Disk Read Time: 4922 | Disk Write Time: 86570 | Disk Busy Time: 59076 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28569 | Network Connections: 399
+2023-04-30 16:56:52 | CPU: 76.7% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53404 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853526528 | Disk Read Time: 4922 | Disk Write Time: 86570 | Disk Busy Time: 59076 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28569 | Network Connections: 402
+2023-04-30 16:56:53 | CPU: 76.8% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53404 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853526528 | Disk Read Time: 4922 | Disk Write Time: 86570 | Disk Busy Time: 59076 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28569 | Network Connections: 402
+2023-04-30 16:56:54 | CPU: 76.7% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53407 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853575680 | Disk Read Time: 4922 | Disk Write Time: 86572 | Disk Busy Time: 59084 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28578 | Network Connections: 402
+2023-04-30 16:56:55 | CPU: 76.8% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53416 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853633024 | Disk Read Time: 4922 | Disk Write Time: 86577 | Disk Busy Time: 59092 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28584 | Network Connections: 401
+2023-04-30 16:56:56 | CPU: 77.2% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53416 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853633024 | Disk Read Time: 4922 | Disk Write Time: 86577 | Disk Busy Time: 59092 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28584 | Network Connections: 403
+2023-04-30 16:56:57 | CPU: 77.0% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53416 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853633024 | Disk Read Time: 4922 | Disk Write Time: 86577 | Disk Busy Time: 59092 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28584 | Network Connections: 403
+2023-04-30 16:56:58 | CPU: 76.6% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53416 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853633024 | Disk Read Time: 4922 | Disk Write Time: 86577 | Disk Busy Time: 59092 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28584 | Network Connections: 408
+2023-04-30 16:57:00 | CPU: 77.1% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53416 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853633024 | Disk Read Time: 4922 | Disk Write Time: 86577 | Disk Busy Time: 59092 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28584 | Network Connections: 407
+2023-04-30 16:57:01 | CPU: 76.8% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53425 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853714944 | Disk Read Time: 4922 | Disk Write Time: 86583 | Disk Busy Time: 59108 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28595 | Network Connections: 404
+2023-04-30 16:57:02 | CPU: 77.1% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53425 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853714944 | Disk Read Time: 4922 | Disk Write Time: 86583 | Disk Busy Time: 59108 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28595 | Network Connections: 369
+2023-04-30 16:57:03 | CPU: 76.9% | RAM: 9.3% | Disk Read Count: 22159 | Disk Write Count: 53425 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853714944 | Disk Read Time: 4922 | Disk Write Time: 86583 | Disk Busy Time: 59108 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28595 | Network Connections: 260
+2023-04-30 16:57:04 | CPU: 76.9% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53425 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853714944 | Disk Read Time: 4922 | Disk Write Time: 86583 | Disk Busy Time: 59108 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28595 | Network Connections: 203
+2023-04-30 16:57:05 | CPU: 76.7% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53425 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853714944 | Disk Read Time: 4922 | Disk Write Time: 86583 | Disk Busy Time: 59108 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28595 | Network Connections: 117
+2023-04-30 16:57:06 | CPU: 76.2% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53430 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853764096 | Disk Read Time: 4922 | Disk Write Time: 86594 | Disk Busy Time: 59124 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28602 | Network Connections: 10
+2023-04-30 16:57:07 | CPU: 75.3% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53432 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853772288 | Disk Read Time: 4922 | Disk Write Time: 86595 | Disk Busy Time: 59128 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28602 | Network Connections: 10
+2023-04-30 16:57:08 | CPU: 75.3% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53432 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853772288 | Disk Read Time: 4922 | Disk Write Time: 86595 | Disk Busy Time: 59128 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28602 | Network Connections: 10
+2023-04-30 16:57:09 | CPU: 75.7% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53432 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853772288 | Disk Read Time: 4922 | Disk Write Time: 86595 | Disk Busy Time: 59128 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28602 | Network Connections: 10
+2023-04-30 16:57:10 | CPU: 75.1% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53432 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853772288 | Disk Read Time: 4922 | Disk Write Time: 86595 | Disk Busy Time: 59128 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28602 | Network Connections: 10
+2023-04-30 16:57:11 | CPU: 75.4% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53436 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853821440 | Disk Read Time: 4922 | Disk Write Time: 86599 | Disk Busy Time: 59140 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28610 | Network Connections: 10
+2023-04-30 16:57:12 | CPU: 75.3% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53436 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853821440 | Disk Read Time: 4922 | Disk Write Time: 86599 | Disk Busy Time: 59140 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28610 | Network Connections: 10
+2023-04-30 16:57:13 | CPU: 75.4% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53437 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853825536 | Disk Read Time: 4922 | Disk Write Time: 86599 | Disk Busy Time: 59144 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28610 | Network Connections: 10
+2023-04-30 16:57:14 | CPU: 75.1% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53437 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853825536 | Disk Read Time: 4922 | Disk Write Time: 86599 | Disk Busy Time: 59144 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28610 | Network Connections: 10
+2023-04-30 16:57:15 | CPU: 75.5% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53437 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853825536 | Disk Read Time: 4922 | Disk Write Time: 86599 | Disk Busy Time: 59144 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28610 | Network Connections: 10
+2023-04-30 16:57:16 | CPU: 33.2% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53443 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853866496 | Disk Read Time: 4922 | Disk Write Time: 86753 | Disk Busy Time: 59224 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28614 | Network Connections: 10
+2023-04-30 16:57:17 | CPU: 0.0% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53443 | Disk Read Bytes: 686870528 | Disk Write Bytes: 853866496 | Disk Read Time: 4922 | Disk Write Time: 86753 | Disk Busy Time: 59224 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28614 | Network Connections: 10
+2023-04-30 16:57:18 | CPU: 0.2% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53445 | Disk Read Bytes: 686870528 | Disk Write Bytes: 854099968 | Disk Read Time: 4922 | Disk Write Time: 86775 | Disk Busy Time: 59240 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28615 | Network Connections: 10
+2023-04-30 16:57:19 | CPU: 0.2% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53446 | Disk Read Bytes: 686870528 | Disk Write Bytes: 854108160 | Disk Read Time: 4922 | Disk Write Time: 86776 | Disk Busy Time: 59244 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28616 | Network Connections: 10
+2023-04-30 16:57:20 | CPU: 2.0% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53446 | Disk Read Bytes: 686870528 | Disk Write Bytes: 854108160 | Disk Read Time: 4922 | Disk Write Time: 86776 | Disk Busy Time: 59244 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28616 | Network Connections: 10
+2023-04-30 16:57:21 | CPU: 0.2% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53446 | Disk Read Bytes: 686870528 | Disk Write Bytes: 854108160 | Disk Read Time: 4922 | Disk Write Time: 86776 | Disk Busy Time: 59244 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28616 | Network Connections: 10
+2023-04-30 16:57:22 | CPU: 0.2% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53448 | Disk Read Bytes: 686870528 | Disk Write Bytes: 854161408 | Disk Read Time: 4922 | Disk Write Time: 86777 | Disk Busy Time: 59248 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28627 | Network Connections: 10
+2023-04-30 16:57:23 | CPU: 0.2% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53448 | Disk Read Bytes: 686870528 | Disk Write Bytes: 854161408 | Disk Read Time: 4922 | Disk Write Time: 86777 | Disk Busy Time: 59248 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28627 | Network Connections: 10
+2023-04-30 16:57:24 | CPU: 0.0% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53448 | Disk Read Bytes: 686870528 | Disk Write Bytes: 854161408 | Disk Read Time: 4922 | Disk Write Time: 86777 | Disk Busy Time: 59248 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28627 | Network Connections: 10
+2023-04-30 16:57:25 | CPU: 0.5% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53449 | Disk Read Bytes: 686870528 | Disk Write Bytes: 854165504 | Disk Read Time: 4922 | Disk Write Time: 86778 | Disk Busy Time: 59252 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28627 | Network Connections: 10
+2023-04-30 16:57:26 | CPU: 0.5% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53464 | Disk Read Bytes: 686870528 | Disk Write Bytes: 854231040 | Disk Read Time: 4922 | Disk Write Time: 86821 | Disk Busy Time: 59260 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28627 | Network Connections: 10
+2023-04-30 16:57:27 | CPU: 0.0% | RAM: 9.2% | Disk Read Count: 22159 | Disk Write Count: 53474 | Disk Read Bytes: 686870528 | Disk Write Bytes: 854272000 | Disk Read Time: 4922 | Disk Write Time: 86869 | Disk Busy Time: 59268 | Disk Read Merged Count: 5078 | Disk Write Merged Count: 28627 | Network Connections: 10
