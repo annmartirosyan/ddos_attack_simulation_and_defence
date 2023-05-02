@@ -10,6 +10,7 @@ sudo apt install python3-pip
 sudo pip install virtualenvwrapper
 export WORKON_HOME=$HOME/.virtualenvs
 export PROJECT_HOME=$HOME/Devel
+export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
 source /usr/local/bin/virtualenvwrapper.sh
 workon
 mkvirtualenv wagtailbakerydemo
