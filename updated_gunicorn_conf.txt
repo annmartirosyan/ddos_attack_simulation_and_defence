@@ -1,0 +1,10 @@
+[program:gunicorn]
+directory=/root/bakerydemo
+command=/root/.virtualenvs/wagtailbakerydemo/bin/gunicorn  --workers=9 --threads=4 --worker-connections=2000 --bind unix:/root/bakerydemo/app.sock bakerydemo.wsgi:application
+autostart=true
+autorestart=true
+stderr_logfile=/var/log/gunicorn/gunicorn.err.log
+stdout_logfile=/var/log/gunicorn/gunicorn.out.log
+
+[group:guni]
+programs:gunicorn
