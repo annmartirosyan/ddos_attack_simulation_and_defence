@@ -13,22 +13,10 @@
 2023-05-02 12:33:10 | CPU: 75.4% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310393 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3012904960 | Disk Read Time: 6224 | Disk Write >
 2023-05-02 12:33:11 | CPU: 75.4% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310393 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3012904960 | Disk Read Time: 6224 | Disk Write >
 2023-05-02 12:33:12 | CPU: 75.2% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310393 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3012904960 | Disk Read Time: 6224 | Disk Write >
-2023-05-02 12:33:13 | CPU: 75.4% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310396 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3012958208 | Disk Read Time: 6224 | Disk Write >
-2023-05-02 12:33:14 | CPU: 75.1% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310396 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3012958208 | Disk Read Time: 6224 | Disk Write >
-2023-05-02 12:33:15 | CPU: 75.5% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310396 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3012958208 | Disk Read Time: 6224 | Disk Write >
-2023-05-02 12:33:16 | CPU: 75.3% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310396 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3012958208 | Disk Read Time: 6224 | Disk Write >
-2023-05-02 12:33:17 | CPU: 75.2% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310396 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3012958208 | Disk Read Time: 6224 | Disk Write >
-2023-05-02 12:33:18 | CPU: 75.5% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310404 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3013011456 | Disk Read Time: 6224 | Disk Write >
-2023-05-02 12:33:19 | CPU: 75.2% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310405 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3013015552 | Disk Read Time: 6224 | Disk Write >
-2023-05-02 12:33:20 | CPU: 75.4% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310405 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3013015552 | Disk Read Time: 6224 | Disk Write >
-2023-05-02 12:33:21 | CPU: 75.4% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310405 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3013015552 | Disk Read Time: 6224 | Disk Write >
-2023-05-02 12:33:22 | CPU: 75.3% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310405 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3013015552 | Disk Read Time: 6224 | Disk Write >
-2023-05-02 12:33:23 | CPU: 75.6% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310407 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3013036032 | Disk Read Time: 6224 | Disk Write >
-2023-05-02 12:33:24 | CPU: 75.2% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310408 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3013040128 | Disk Read Time: 6224 | Disk Write >
-2023-05-02 12:33:25 | CPU: 75.4% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310408 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3013040128 | Disk Read Time: 6224 | Disk Write >
-2023-05-02 12:33:26 | CPU: 75.1% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310408 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3013040128 | Disk Read Time: 6224 | Disk Write >
-2023-05-02 12:33:27 | CPU: 75.3% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310408 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3013040128 | Disk Read Time: 6224 | Disk Write >
-2023-05-02 12:33:28 | CPU: 75.4% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310415 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3013101568 | Disk Read Time: 6224 | Disk Write >
+.
+.
+.
+.
 2023-05-02 12:33:29 | CPU: 75.1% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310430 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3013171200 | Disk Read Time: 6224 | Disk Write >
 2023-05-02 12:33:30 | CPU: 59.4% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310432 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3013179392 | Disk Read Time: 6224 | Disk Write >
 2023-05-02 12:33:31 | CPU: 0.7% | RAM: 10.2% | Disk Read Count: 26149 | Disk Write Count: 310432 | Disk Read Bytes: 883033600 | Disk Write Bytes: 3013179392 | Disk Read Time: 6224 | Disk Write T>
